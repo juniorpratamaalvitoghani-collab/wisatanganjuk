@@ -1,0 +1,212 @@
+[
+  {
+    "id": "1",
+    "title": "Air Terjun Sedudo",
+    "category": "Wisata Alam",
+    "slug": "air-terjun-sedudo",
+    "description": "Air terjun setinggi 105 meter di lereng Gunung Wilis pada ketinggian 1.438 mdpl. Terkenal dengan mitos airnya yang bikin awet muda serta tradisi ritual mandi bersama setiap bulan Suro.",
+    "location": "Sawahan, Kabupaten Nganjuk",
+    "ticketPrice": "Rp 15.000",
+    "openingHours": "07.00 - 16.00 WIB",
+    "rating": 4.6,
+    "coordinates": {
+      "lat": -7.7818,
+      "lng": 111.7825
+    },
+    "googleMapsUrl": "https://maps.app.goo.gl/sedudo",
+    "facilities": [
+      "Area Parkir Luas",
+      "Toilet & Kamar Bilas",
+      "Musholla",
+      "Warung Makan & Gazebo",
+      "Toko Souvenir"
+    ],
+    "images": [
+      "/images/sedudo.jpg",
+      "/images/sedudo2.jpg"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Air Terjun Roro Kuning",
+    "category": "Wisata Alam & Sejarah",
+    "slug": "roro-kuning",
+    "description": "Air terjun indah berketinggian 10-15 meter dari merambatnya air di sela bebatuan. Memiliki nilai sejarah sebagai lokasi gerilya Jenderal Sudirman.",
+    "location": "Bajulan, Loceret, Nganjuk",
+    "ticketPrice": "Rp 10.000",
+    "openingHours": "07.00 - 16.00 WIB",
+    "rating": 4.3,
+    "coordinates": {
+      "lat": -7.7012,
+      "lng": 111.8315
+    },
+    "googleMapsUrl": "https://maps.app.goo.gl/rorokuning",
+    "facilities": [
+      "Area Parkir",
+      "Toilet Umum",
+      "Musholla",
+      "Kolam Renang Anak",
+      "Warung Kuliner"
+    ],
+    "images": [
+      "/images/rorokuning.jpg",
+      "/images/rorokuning22.jpg"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Candi Ngetos",
+    "category": "Wisata Sejarah",
+    "slug": "candi-ngetos",
+    "description": "Candi bata merah peninggalan Kerajaan Majapahit abad ke-14. Menurut sejarah, candi ini dibangun sebagai tempat pendarmaan abu jenazah Raja Hayam Wuruk.",
+    "location": "Ngetos, Kabupaten Nganjuk",
+    "ticketPrice": "Gratis",
+    "openingHours": "08.00 - 16.00 WIB",
+    "rating": 4.4,
+    "coordinates": {
+      "lat": -7.6711,
+      "lng": 111.8542
+    },
+    "googleMapsUrl": "https://maps.app.goo.gl/candingetos",
+    "facilities": [
+      "Area Parkir",
+      "Papan Informasi Sejarah",
+      "Taman Sekitar Candi"
+    ],
+    "images": [
+      "/images/candingetos.jpg",
+      "/images/candingetos2.jpg"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Candi Lor",
+    "category": "Wisata Sejarah",
+    "slug": "candi-lor",
+    "description": "Monumen bersejarah peninggalan Mpu Sendok tempat ditemukannya Prasasti Anjuk Ladang. Menjadi bukti sejarah awal berdirinya Kabupaten Nganjuk.",
+    "location": "Candirejo, Loceret, Nganjuk",
+    "ticketPrice": "Gratis",
+    "openingHours": "24 Jam",
+    "rating": 4.3,
+    "coordinates": {
+      "lat": -7.6258,
+      "lng": 111.9012
+    },
+    "googleMapsUrl": "https://maps.app.goo.gl/candilor",
+    "facilities": [
+      "Area Parkir Motor",
+      "Papan Informasi Situs",
+      "Gazebo"
+    ],
+    "images": [
+      "/images/candiLor.jpg",
+      "/images/candiLor2.jpg"
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Air Terjun Singokromo",
+    "category": "Wisata Alam",
+    "slug": "air-terjun-singokromo",
+    "description": "Air terjun alami beriklim sejuk setinggi 20 meter di lereng Wilis. Dipercaya warga lokal memiliki mitos dapat membantu mendekatkan jodoh.",
+    "location": "Ngliman, Sawahan, Nganjuk",
+    "ticketPrice": "Rp 6.000",
+    "openingHours": "08.00 - 16.00 WIB",
+    "rating": 4.5,
+    "coordinates": {
+      "lat": -7.7651,
+      "lng": 111.7911
+    },
+    "googleMapsUrl": "https://maps.app.goo.gl/singokromo",
+    "facilities": [
+      "Area Parkir",
+      "Toilet & Kamar Ganti",
+      "Warung Kopi",
+      "Spot Foto Alam"
+    ],
+    "images": [
+      "/images/singokromo_2.jpg",
+      "/images/singokromo22.jpg"
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Ekowisata Jolotundo",
+    "category": "Wisata Alam & Edukasi",
+    "slug": "jolotundo",
+    "description": "Kawasan objek wisata hutan pinus asri yang dilengkapi area camping ground tepi sungai, wahana outbond, dan fasilitas bersantai.",
+    "location": "Bajulan, Loceret, Nganjuk",
+    "ticketPrice": "Rp 10.000",
+    "openingHours": "Senin-Kamis: 09.00-20.00 WIB, Jumat-Minggu: 09.00-22.00 WIB",
+    "rating": 4.2,
+    "coordinates": {
+      "lat": -7.7125,
+      "lng": 111.8203
+    },
+    "googleMapsUrl": "https://maps.app.goo.gl/jolotundo",
+    "facilities": [
+      "Area Parkir",
+      "Camping Ground",
+      "Outbound",
+      "Cafe & Resto Pinus",
+      "Toilet & Musholla"
+    ],
+    "images": [
+      "/images/jolotundo1.jpg",
+      "/images/jolotundo2.jpeg"
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Bukit Surga",
+    "category": "Wisata Perbukitan",
+    "slug": "bukit-surga",
+    "description": "Destinasi perbukitan populer yang menyajikan panorama alam hijau dari ketinggian, plaza spot foto estetik, serta area berkemah.",
+    "location": "Bareng, Sawahan, Nganjuk",
+    "ticketPrice": "Rp 5.000",
+    "openingHours": "08.00 - 17.00 WIB",
+    "rating": 4.4,
+    "coordinates": {
+      "lat": -7.7421,
+      "lng": 111.7892
+    },
+    "googleMapsUrl": "https://maps.app.goo.gl/bukitsurga",
+    "facilities": [
+      "Area Parkir",
+      "Camping Ground",
+      "Spot Foto Panorama",
+      "Warung Makan"
+    ],
+    "images": [
+      "/images/bukitsurga.jpg",
+      "/images/bukitsurga2.jpg"
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Bendungan Semantok",
+    "category": "Wisata Alam & Edukasi",
+    "slug": "bendungan-semantok",
+    "description": "Bendungan terpanjang di Asia Tenggara yang menyajikan pemandangan waduk megah, plaza ruang terbuka hijau, dan area bersantai.",
+    "location": "Rejoso, Kabupaten Nganjuk",
+    "ticketPrice": "Rp 5.000",
+    "openingHours": "08.00 - 18.00 WIB",
+    "rating": 4.6,
+    "coordinates": {
+      "lat": -7.5312,
+      "lng": 111.8921
+    },
+    "googleMapsUrl": "https://maps.app.goo.gl/semantok",
+    "facilities": [
+      "Area Parkir Luas",
+      "Plaza Utama",
+      "Spot Foto Panorama",
+      "Toilet & Musholla",
+      "Warung Kuliner"
+    ],
+    "images": [
+      "/images/SEMANTOK.jpg",
+      "/images/SEMANTOK22.jpg"
+    ]
+  }
+]

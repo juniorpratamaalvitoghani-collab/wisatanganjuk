@@ -5,7 +5,8 @@
   --foreground: #171717;
 }
 
-@theme inline {
+/* Define theme-related custom properties directly to avoid unknown @theme at-rule */
+:root {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
