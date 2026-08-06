@@ -15,7 +15,7 @@
     },
     "googleMapsUrl": "https://maps.app.goo.gl/sedudo",
     "facilities": [
-      "Area Parkir Luas",
+      "Area Parkir",
       "Toilet & Kamar Bilas",
       "Musholla",
       "Warung Makan & Gazebo",
@@ -46,7 +46,7 @@
       "Toilet Umum",
       "Musholla",
       "Kolam Renang Anak",
-      "Warung Kuliner"
+      "Warung Makan"
     ],
     "images": [
       "/images/rorokuning.jpg",
@@ -58,9 +58,9 @@
     "title": "Candi Ngetos",
     "category": "Wisata Sejarah",
     "slug": "candi-ngetos",
-    "description": "Candi bata merah peninggalan Kerajaan Majapahit abad ke-14. Menurut sejarah, candi ini dibangun sebagai tempat pendarmaan abu jenazah Raja Hayam Wuruk.",
+    "description": "Candi bata merah peninggalan Kerajaan Majapahit abad ke-14. Menurut sejarah, candi ini dibangun sebagai tempat penyimpanan abu jenazah Raja Hayam Wuruk.",
     "location": "Ngetos, Kabupaten Nganjuk",
-    "ticketPrice": "Gratis",
+    "ticketPrice": "Rp 5.000",
     "openingHours": "08.00 - 16.00 WIB",
     "rating": 4.4,
     "coordinates": {
@@ -70,8 +70,11 @@
     "googleMapsUrl": "https://maps.app.goo.gl/candingetos",
     "facilities": [
       "Area Parkir",
-      "Papan Informasi Sejarah",
-      "Taman Sekitar Candi"
+      "Pagar pengaman",
+      "Toilet Umum",
+      "Gazebo",
+      "Warung Makan",
+      "Toilet Umum"
     ],
     "images": [
       "/images/candingetos.jpg",
@@ -94,9 +97,11 @@
     },
     "googleMapsUrl": "https://maps.app.goo.gl/candilor",
     "facilities": [
-      "Area Parkir Motor",
-      "Papan Informasi Situs",
-      "Gazebo"
+      "Area Parkir",
+      "Papan Informasi Sejarah",
+      "Warung Makan",
+      "Gazebo",
+      "Toilet Umum"
     ],
     "images": [
       "/images/candiLor.jpg",
@@ -121,8 +126,8 @@
     "facilities": [
       "Area Parkir",
       "Toilet & Kamar Ganti",
-      "Warung Kopi",
-      "Spot Foto Alam"
+      "Warung Makan",
+      "Spot Foto"
     ],
     "images": [
       "/images/singokromo_2.jpg",
@@ -131,7 +136,7 @@
   },
   {
     "id": "6",
-    "title": "Ekowisata Jolotundo",
+    "title": "Jolotundo Glamping and Edupark",
     "category": "Wisata Alam & Edukasi",
     "slug": "jolotundo",
     "description": "Kawasan objek wisata hutan pinus asri yang dilengkapi area camping ground tepi sungai, wahana outbond, dan fasilitas bersantai.",
@@ -174,7 +179,7 @@
     "facilities": [
       "Area Parkir",
       "Camping Ground",
-      "Spot Foto Panorama",
+      "Spot Foto",
       "Warung Makan"
     ],
     "images": [
@@ -187,9 +192,9 @@
     "title": "Bendungan Semantok",
     "category": "Wisata Alam & Edukasi",
     "slug": "bendungan-semantok",
-    "description": "Bendungan terpanjang di Asia Tenggara yang menyajikan pemandangan waduk megah, plaza ruang terbuka hijau, dan area bersantai.",
+    "description": "Bendungan terpanjang di Asia Tenggara yang menyajikan pemandangan waduk megah, lapangan terbuka, dan area bersantai.",
     "location": "Rejoso, Kabupaten Nganjuk",
-    "ticketPrice": "Rp 5.000",
+    "ticketPrice": "Rp 5.000 untuk motor, Rp 10.000 untuk mobil",
     "openingHours": "08.00 - 18.00 WIB",
     "rating": 4.6,
     "coordinates": {
@@ -198,11 +203,11 @@
     },
     "googleMapsUrl": "https://maps.app.goo.gl/semantok",
     "facilities": [
-      "Area Parkir Luas",
-      "Plaza Utama",
-      "Spot Foto Panorama",
+      "Area Parkir",
+      "Fasilitas Olahraga",
+      "Spot Foto",
       "Toilet & Musholla",
-      "Warung Kuliner"
+      "Warung Makan"
     ],
     "images": [
       "/images/SEMANTOK.jpg",
