@@ -51,6 +51,21 @@ Pastikan kamu sudah menginstal [Node.js](https://nodejs.org/) (versi 18.x atau y
 └── README.md
 
 ### Deployment
+
+1.setup pertama kali
+​ 1. Hubungkan GitHub ke Vercel
+  ​ -Buka vercel.com di browser.
+​   -Login atau daftar akun baru menggunakan akun GitHub kamu.
+​ 2. Import Project
+​   -Di halaman dashboard Vercel, klik tombol Add New lalu pilih Project.
+   ​-Vercel akan menampilkan daftar repository GitHub milikmu. Cari repository wisatanganjuk, lalu      klik "Import".
+​ 3. Konfigurasi & Deploy
+​   -Pada halaman Configure Project:
+     •Framework Preset: Next.js
+     •​Root Directory: default
+     •​Build and Output Settings: default
+   -​Klik tombol Deploy.
+2.Update Otomatis
 git add .
 git commit -m "Update fitur atau konten"
 git push origin main
