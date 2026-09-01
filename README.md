@@ -39,14 +39,14 @@ Pastikan kamu sudah menginstal [Node.js](https://nodejs.org/) (versi 18.x atau y
 
    wisatanganjuk/
 ├── public/
-│   └── images/              # Aset gambar & logo transparan
+│   └── images/              
 ├── src/
-│   ├── app/                 # Next.js App Router (Halaman & Routing)
-│   │   ├── destinations/    # Halaman detail destinasi [slug]
-│   │   ├── globals.css      # Styling global Tailwind CSS
-│   │   ├── layout.tsx       # Root layout & Metadata SEO
-│   │   └── page.tsx         # Halaman utama (Homepage)
-│   └── data/                # File JSON data destinasi wisata
+│   ├── app/                 
+│   │   ├── destinations/    
+│   │   ├── globals.css     
+│   │   ├── layout.tsx       
+│   │   └── page.tsx         
+│   └── data/                
 ├── package.json
 └── README.md
 
